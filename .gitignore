@@ -1,0 +1,16 @@
+node_modules/
+__pycache__/
+*.py[cod]
+*.log
+.env
+.env.*
+.venv*/
+**/.venv*/
+**/runtime/
+**/evidence/
+**/*browser-profile*/
+**/shopping-browser-install.json
+**/shopping-browser-mcp.json
+**/skill-backups/
+dist/
+validation-home/
