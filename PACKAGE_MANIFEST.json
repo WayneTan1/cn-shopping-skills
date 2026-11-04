@@ -1,0 +1,286 @@
+{
+  "formatVersion": 1,
+  "package": "cn-shopping-skills",
+  "version": "0.1.0",
+  "preparedDate": "2026-11-04",
+  "manifestExcludes": [
+    "PACKAGE_MANIFEST.json"
+  ],
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 225,
+      "sha256": "480337f49cccc93d9c09c6b0d1943c9e152ad5fab6ebaead767c57515d12912b"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3947,
+      "sha256": "bd44630750172a9e30d3bc532a0bebe7a05fa76da0f856e3660fa7d24529175b"
+    },
+    {
+      "path": "scripts/install.ps1",
+      "bytes": 5049,
+      "sha256": "06a09672a26b3d5b196fda4a3121da80f0644f64520ee152cc0f57ba8dff9966"
+    },
+    {
+      "path": "skills/cn-shopping-cart/agents/openai.yaml",
+      "bytes": 367,
+      "sha256": "7d9c800d3450cb19e2a35674e296f3486e98eb29d8c308258da966e85a23e0f0"
+    },
+    {
+      "path": "skills/cn-shopping-cart/references/offers-and-access.md",
+      "bytes": 9416,
+      "sha256": "610af438fe0cdcb00868db51eb7fccef53badeffe4a61f66aea6756ab141131c"
+    },
+    {
+      "path": "skills/cn-shopping-cart/references/runtime.md",
+      "bytes": 1993,
+      "sha256": "e175aa3eb533e4d7aa2ebde6c26dba2baf71dafcc716a72a241ac35cbad87fc0"
+    },
+    {
+      "path": "skills/cn-shopping-cart/references/save-target.md",
+      "bytes": 6533,
+      "sha256": "7a74117007995fdce72980b2d9ff37af53384fb4fc6d36accd1af37cfe1ba527"
+    },
+    {
+      "path": "skills/cn-shopping-cart/SKILL.md",
+      "bytes": 5907,
+      "sha256": "6f12a029c6cfc209f77115712e3fc9cbc9fe9f05262129a1cd9f5be6e5ffb099"
+    },
+    {
+      "path": "skills/cn-shopping-compare/agents/openai.yaml",
+      "bytes": 327,
+      "sha256": "9de5de78d2443c2fb7865452da5941de6d277b9f179ea09b5e93819dc42db58d"
+    },
+    {
+      "path": "skills/cn-shopping-compare/references/platform-playbook.md",
+      "bytes": 1598,
+      "sha256": "39f887ef689e107a4b0d46d5b2c7827bb0e5abf3244d6f756880e574f55b9598"
+    },
+    {
+      "path": "skills/cn-shopping-compare/references/ranking-rubric.md",
+      "bytes": 483,
+      "sha256": "057664a26177241f2690863c4e02795dee50f67bf380ad0fbff99f20a1bf4231"
+    },
+    {
+      "path": "skills/cn-shopping-compare/scripts/score_products.py",
+      "bytes": 1004,
+      "sha256": "2a212a16023a4960f61b494d65802ccb0c15c2d924f5a6f89fbae2b874f5ff03"
+    },
+    {
+      "path": "skills/cn-shopping-compare/SKILL.md",
+      "bytes": 8904,
+      "sha256": "b46cc38b643c33db6d3ce4c4b4f92e143dc79d9afd16ff68b8e21fbf58534be3"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 1104,
+      "sha256": "f4988ac86819b4a1e7c7c202aec382e272c9fa52240fbe121369f121d3b0fbca"
+    },
+    {
+      "path": "tools/shopping-browser/bridge.mjs",
+      "bytes": 9342,
+      "sha256": "5c3925a09980f581ccb4c4b94b41ec173e8604064bffca49ced3464294329944"
+    },
+    {
+      "path": "tools/shopping-browser/package-lock.json",
+      "bytes": 44627,
+      "sha256": "771e9016a0daeb54b84d101fc89448947616b51d69be5e448931a5637e84e2a0"
+    },
+    {
+      "path": "tools/shopping-browser/package.json",
+      "bytes": 304,
+      "sha256": "9221ffc5f8210613f6241c8556636f5b08f9bc3d43f80ac6fe1f9e4d0a8614a2"
+    },
+    {
+      "path": "tools/shopping-browser/server.mjs",
+      "bytes": 4540,
+      "sha256": "5d4fa673e353b49d9e8a74c51b1dbdc59de5508e93916f23ce05c548f99dd949"
+    },
+    {
+      "path": "tools/shopping-browser/session-host.mjs",
+      "bytes": 2836,
+      "sha256": "437c654814087f420adcf9ed1c30c0edfc1498f00e28fcd9dd993e371c3c98a5"
+    },
+    {
+      "path": "tools/shopping-browser/test-browser.mjs",
+      "bytes": 3819,
+      "sha256": "af979a076b5c049f07748daa1f33900be9ff4ed312ee2880fcb257e379ed1153"
+    },
+    {
+      "path": "tools/shopping-browser/test-workflow.mjs",
+      "bytes": 3789,
+      "sha256": "b04b113755a091ec2bbe8f7ea55456fd3183047b3dd99e11b7307db9dd4634ba"
+    },
+    {
+      "path": "tools/shopping-browser/workflow.mjs",
+      "bytes": 4689,
+      "sha256": "b248d5dc0d05cd0f8c6859d8ef65d1cf221f8a2c6e6500482f9987895e4fe762"
+    },
+    {
+      "path": "VALIDATION.md",
+      "bytes": 1922,
+      "sha256": "df069cba9144f79d40e9f1207cf43de4e54f050ad7de23be9d68ef2acf93b268"
+    },
+    {
+      "path": "vendor/price-pilot/LICENSE",
+      "bytes": 1079,
+      "sha256": "3d9eb567abded21047833b5a0b5acf827c504d15d191e1ca0129672a45f6a6f7"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/__init__.py",
+      "bytes": 960,
+      "sha256": "d2658f1d534a98d6c66280ebc617c7610faf402a96e9975244ee2dfb31419549"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/__main__.py",
+      "bytes": 94,
+      "sha256": "4d55aa550fdcb7680473f0b1b7817a79e09fa77bfe2dbf8f0d98af8d1c487154"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/channels/__init__.py",
+      "bytes": 809,
+      "sha256": "b6a9b1f6b31ca3a7a950409b91da1ae6ad1d1973eab7b24b06cf05a30db66eb0"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/channels/base.py",
+      "bytes": 983,
+      "sha256": "df8274dd1998fb97995520d0b9b2a7a0be32d76ac2aee5dd7888253928c6cf15"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/channels/jd.py",
+      "bytes": 1322,
+      "sha256": "b1bd7127d2f9730f042e35ab14ded2cd056fe4d60216ca5e877032b3725cdfd0"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/channels/pinduoduo.py",
+      "bytes": 1373,
+      "sha256": "f0e7030c824f93ffb6a854c50ba475735805f40f420736b25b80da1c479f2442"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/channels/taobao.py",
+      "bytes": 1317,
+      "sha256": "465a9fc2f41a780be80570bee6739d9a61e6afeea87481da312b64a60b5ae5f8"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/channels/xianyu.py",
+      "bytes": 1362,
+      "sha256": "ecb49c201716a7e995a95d32e570b2c350bcba56f918c10516cc0c9b316f19c4"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/channels/zhuanzhuan.py",
+      "bytes": 1373,
+      "sha256": "8350f10ee175889e195f15839e3f231d82264414fc04d00f91b3911bc4bbac0c"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/cli.py",
+      "bytes": 21272,
+      "sha256": "36779bbc147ce254001a74df5d9268f4fa4012e710a42a749db4b9fe2bc8d418"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/config.py",
+      "bytes": 2849,
+      "sha256": "8e5044777db894de3f1d44adf442535353c591d8eeb17a08181cb627937818c1"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/cookies.py",
+      "bytes": 10728,
+      "sha256": "55013051dc15c22696bd9b21e18c9fe77a0df9e480cdc817f6bf80a639cf9a24"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/core.py",
+      "bytes": 1815,
+      "sha256": "2b7539684a31691ed3d41b42c6fe6de527643195fd99a1468b12471d1582e5fb"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/decision.py",
+      "bytes": 1863,
+      "sha256": "daf5bfdcf03a6227594bdf3420dba1304f54cdbd2dd69c4a783c2da98f168d58"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/discovery.py",
+      "bytes": 22495,
+      "sha256": "729fe899dfab626f379edbc63e8117a063988e1aa9749d2c7331fb897b725b78"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/doctor.py",
+      "bytes": 1707,
+      "sha256": "7e7de8f6f8bbabe1b67e0837510515ec3e04b70c2796a5ba96430dcbc9e06f63"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/guides/setup-cookies.md",
+      "bytes": 1053,
+      "sha256": "0534a1bc2f1a2c7967b811131a00fae903970e44efafd1ec6fc04f8a3f2737b5"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/guides/setup-mcporter.md",
+      "bytes": 722,
+      "sha256": "1624d784f9d485e224f50ba2a54a75087114d761a498adfdb4d66a8bc01d71ec"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/inquiry.py",
+      "bytes": 6945,
+      "sha256": "6987816f0730657b19c00cf3bac15b17cf14949444da031d866e3ce88be962f2"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/integrations/mcporter.py",
+      "bytes": 3148,
+      "sha256": "4149b85e764aecd7f5532610c74996db5ddfbdcbe3ec3cf8a71028defb3de9bc"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/models.py",
+      "bytes": 2493,
+      "sha256": "73162b6324d70097c69c01e57aed947983d19537c4a6e09a0b1df1a2431c0f62"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/ranking.py",
+      "bytes": 5278,
+      "sha256": "e43e315fc47f79ba6347242d20749f93e7a9f1a5fea756bab9d783a04c8bd08a"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/scoring.py",
+      "bytes": 4961,
+      "sha256": "bb55069f4a4e87ac7b15430099c8cfe8f09ec7df7e0eba1e4817a88daaaa0cec"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/skill/agents/openai.yaml",
+      "bytes": 292,
+      "sha256": "1480be01d327e4489788d8cf2cfca308ef37d89b5f44bde577fb48cc75b5accd"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/skill/references/platform-playbook.md",
+      "bytes": 1683,
+      "sha256": "6beecba04df5bc50df6977f15d1d9797fa9c7a0fd7b8f02314441edb70ab341a"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/skill/references/ranking-rubric.md",
+      "bytes": 502,
+      "sha256": "3e78784f3f285f9eea83c6ef661892b1837bfacee7a170b54ff48f5c60545839"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/skill/scripts/score_products.py",
+      "bytes": 1036,
+      "sha256": "80f2d451fc12328dfc462aedd1c0ec7daa457f98b1f41380b2e486aef927a174"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/skill/SKILL.md",
+      "bytes": 6711,
+      "sha256": "18adde9268fddca11e733bd339addd6e363e21b93aa0d29fdecfe9aacb44e437"
+    },
+    {
+      "path": "vendor/price-pilot/price_pilot/sources.py",
+      "bytes": 4642,
+      "sha256": "bf0180563202b014b6acdc9a99008c0f21cba4a364340470e2cfeafeac06828f"
+    },
+    {
+      "path": "vendor/price-pilot/pyproject.toml",
+      "bytes": 1771,
+      "sha256": "d8e1d4880eaa82a0ad9a6eae263d74e5ef2b39a1741bbfb9360c85132d83495a"
+    },
+    {
+      "path": "vendor/price-pilot/README.md",
+      "bytes": 14814,
+      "sha256": "3e0c3541729ecdf1b5c3d2f15719440ddd243419af3271dc790d6e128496adbe"
+    }
+  ]
+}

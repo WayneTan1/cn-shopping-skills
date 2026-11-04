@@ -1,0 +1,11 @@
+{
+  "name": "local-shopping-browser",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Local Playwright MCP bridge for Price Pilot comparison and verified cart operations",
+  "dependencies": {
+    "@playwright/mcp": "0.0.84",
+    "@modelcontextprotocol/sdk": "1.32.2"
+  }
+}

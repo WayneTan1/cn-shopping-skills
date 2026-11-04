@@ -1,0 +1,4 @@
+interface:
+  display_name: "China Price Compare"
+  short_description: "Compare exact variants, coupons and delivered value"
+  default_prompt: "Use $cn-shopping-compare to compare current listings and relevant coupons, rank the best value, and complete any cart or Pinduoduo favorite action already authorized in this session."

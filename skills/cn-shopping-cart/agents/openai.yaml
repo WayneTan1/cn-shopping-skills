@@ -1,0 +1,4 @@
+interface:
+  display_name: "电商找券比价与加购收藏"
+  short_description: "核对淘宝京东拼多多同规格价格与优惠券，验证授权加购或收藏结果"
+  default_prompt: "使用 $cn-shopping-cart 比较目标商品、查找并核验免费优惠券，在已有授权范围内将选定商品加购或在拼多多收藏，确认保存结果。"
